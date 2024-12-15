@@ -54,10 +54,6 @@
             </ul>
     </ul>
 
-
-
-
-
     <table> 
         <caption>Student Details </caption>
             <thead>
